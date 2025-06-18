@@ -8,10 +8,7 @@ A simple note keeper app that built with **React.js** and **Node.js**
 
 - [Noodle Keep](#noodle-keep)
 - [Table of contents](#table-of-contents)
-- [Demo](#demo)
-- [Features](#features)
 - [Install](#install)
-- [Setup ENV](#setup-env)
 - [Highlight Technology](#highlight-technology)
 
 # Install
@@ -25,9 +22,6 @@ A simple note keeper app that built with **React.js** and **Node.js**
 5. run command `npm run start` on terminal at project directory
 6. go to 'http://localhost:3000/'
 
-# Setup ENV
-
-[(Back to top)](#table-of-contents)
 
 
 # Highlight Technology
