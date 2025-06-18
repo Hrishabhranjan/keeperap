@@ -1,6 +1,4 @@
-<!-- Add banner here -->
 
-![Project Preview](https://www.dropbox.com/s/pvd6n0j8p9cazt7/preview%20desktop%20noodle%201.jpg?raw=1)
 
 # Noodle Keep
 
@@ -32,8 +30,8 @@ A simple note keeper app that built with **MERN** stack, **MUI** and **Redux**
 2. install [node.js](https://nodejs.org/en/)
 3. run command `npm install` on terminal in this project directory
 4. setup [.env](#setup-env) file
-5. run command `npm run dev` on terminal at project directory
-6. go to `http://localhost:3002/`
+5. run command `npm run start` on terminal at project directory
+6. go to `http://localhost:4000/`
 
 # Setup ENV
 
@@ -48,10 +46,7 @@ A simple note keeper app that built with **MERN** stack, **MUI** and **Redux**
 [(Back to top)](#table-of-contents)
 
 - React.js
-- Redux
-- MUI
 - Node.js
-- MongoDB
 # Deploy Link
 https://v0-new-project-p8yv9dkae9s.vercel.app/
 
