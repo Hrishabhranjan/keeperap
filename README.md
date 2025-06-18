@@ -1,10 +1,8 @@
-
-
 # Noodle Keep
 
 <!-- Describe your project in brief -->
 
-A simple note keeper app that built with **MERN** stack, **MUI** and **Redux**
+A simple note keeper app that built with **React.js** and **Node.js**
 
 # Table of contents
 
@@ -16,12 +14,6 @@ A simple note keeper app that built with **MERN** stack, **MUI** and **Redux**
 - [Setup ENV](#setup-env)
 - [Highlight Technology](#highlight-technology)
 
-# Demo
-
-[(Back to top)](#table-of-contents)
-
-[DEMO LINK](https://thasup-noodle-keeper.onrender.com/)
-
 # Install
 
 [(Back to top)](#table-of-contents)
@@ -31,15 +23,12 @@ A simple note keeper app that built with **MERN** stack, **MUI** and **Redux**
 3. run command `npm install` on terminal in this project directory
 4. setup [.env](#setup-env) file
 5. run command `npm run start` on terminal at project directory
-6. go to `http://localhost:4000/`
+6. go to 'http://localhost:3000/'
 
 # Setup ENV
 
 [(Back to top)](#table-of-contents)
 
-**PORT** : 5001
-
-**MONGO_URI** : [MongoDB](https://www.mongodb.com/)
 
 # Highlight Technology
 
