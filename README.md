@@ -1,5 +1,4 @@
-# Noodle Keep
-
+#
 <!-- Describe your project in brief -->
 
 A simple note keeper app that built with **React.js** and **Node.js**
@@ -27,7 +26,7 @@ A simple note keeper app that built with **React.js** and **Node.js**
 # Highlight Technology
 
 [(Back to top)](#table-of-contents)
-
+-NPM
 - React.js
 - Node.js
 # Deploy Link
