@@ -4,8 +4,6 @@
 A simple note keeper app that built with **React.js** and **Node.js**
 
 # Table of contents
-
-- [Noodle Keep](#noodle-keep)
 - [Table of contents](#table-of-contents)
 - [Install](#install)
 - [Highlight Technology](#highlight-technology)
